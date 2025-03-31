@@ -9,7 +9,7 @@ class RhymersDemo {
         Rhymersfactory factory = new DefaultRhymersFactory();
 
         testRhymers(factory);
-
+        // 15. - kod jest poprawny, nie ma potrzeby wprowadzania zmian
     }
 
     private static void testRhymers(Rhymersfactory factory) {
