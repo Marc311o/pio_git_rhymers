@@ -1,5 +1,7 @@
 package edu.kis.vh.nursery.list;
 
+//TODO: needs refactoring - class IntLinkedList is redundant
+
 /**
  * The IntLinkedList class represents a linked list of integers.
  * It provides methods to add elements to the list, check if the list is empty or full,
